@@ -11,6 +11,7 @@ A web-based system built with PHP for managing employee tasks and leave requests
 ## Technologies Used
 - PHP
 - Bootstrap (CSS)
+- mySQL
 
 ## How to Run
 1. Clone the repository
